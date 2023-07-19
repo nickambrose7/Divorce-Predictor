@@ -1,19 +1,17 @@
-## Mastery Checkpoint #1
-This is Killian Brait's first Mastery Checkpoint for CSC466: Knowledge Discovery From Data.
+## CSC 466 Project - Divorce Prediction
+This is Nick and Killian's CSC 466 project where we are using various machine learning techniques to predict key indicators of healthy vs. unhealthy marriages based on the data in the following [Kaggle dataset](https://www.kaggle.com/datasets/andrewmvd/divorce-prediction?resource=download).
 
-### Guassian Naive Bayes Classifier
-
-#### Requirements
-- [] Modify Lab 2 function (Simple Naive Bayes Classifier) to use the Gaussian Naive Bayes Classifier that assumes each feature is normally distributed rather than using binning.
-- [] Modify Lab 2 code so that you may use empirical or uniform priors.
-- [] Demo Code on more than one dataset (not just the fruit dataset for Lab 2).
-- [] Compare the performance of the Gaussian Naive Bayes Classifier to the Simple Naive Bayes Classifier from Lab 2.
-
-### Permutation Feature Importance
-Compare the feature importance of the Gaussian Naive Bayes Classifier to the Simple Naive Bayes Classifier from Lab 2 using two different datasets. Synthesize the four comparisons (2 datasets x 2 classifiers) into a single report of your findings.
-
-### Intro to Ethics
+### Models Used
+1. Our Decision Tree (Random Forest?) vs. SciKit Learn's Decision Tree
+2. Our Clustering vs. SciKit Learn's Clustering
 
 #### Requirements
-- [] Find and analyze at least one dataset with ethical concerns using these classifiers
-- [] Present an argument as to how these concerns can be monitored/managed, and discuss your position
+- [] Implement SciKit model #1
+- [] Implement SciKit model #2
+- [] Implement our model #1
+- [] Implement our model #2
+- [] Implement feature importance for our model #1
+- [] Implement feature importance for our model #2
+- [] Write report about the clusters in the data
+- [] Write report about the feature importance of our models
+- [] Write report comparing our models to SciKit's models
