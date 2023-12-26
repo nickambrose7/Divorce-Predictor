@@ -1,9 +1,5 @@
-## CSC 466 Project - Divorce Prediction
-This is Nick and Killian's CSC 466 project where we are using various machine learning techniques to predict key indicators of healthy vs. unhealthy marriages based on the data in the following [Kaggle dataset](https://www.kaggle.com/datasets/andrewmvd/divorce-prediction?resource=download).
+## Divorce Prediction Project
+In this project, Nick and Killian use various machine learning techniques to predict key indicators of healthy vs. unhealthy marriages based on the data in the following [Kaggle dataset](https://www.kaggle.com/datasets/andrewmvd/divorce-prediction?resource=download).
 
-### Models Used
-1. KNN
-2. K-means
-
-
-Please see our [final report] ()
+## More Information
+Please see our [final report](https://github.com/nickambrose7/Divorce-Predictor/blob/main/Final%20Report.pdf) for a deep dive into the insights gained in this project. Curious about how we implemented our custom KNN and K-Means algorithms? Look at [mainReport.ipynb](https://github.com/nickambrose7/Divorce-Predictor/blob/main/mainReport.ipynb); this file contains all the code needed to make this project happen. The rest of the files are miscellaneous- for personal use by Killian or Nick. We thought to keep them for reference later.
