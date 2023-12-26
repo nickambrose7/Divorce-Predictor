@@ -4,3 +4,6 @@ This is Nick and Killian's CSC 466 project where we are using various machine le
 ### Models Used
 1. KNN
 2. K-means
+
+
+Please see our [final report] ()
